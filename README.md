@@ -1,53 +1,44 @@
 # Hatem Shalaby
-### Senior Operations Architect · Automation Engineer · WFM Systems Designer
-> *18+ years translating contact center chaos into engineered precision — now building the automated systems that scale it.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hatem-shalaby-7359611a2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](https://hatemismail2011shalaby.github.io/RTA-Operations-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:hatemismail2011@gmail.com)
+Operations Architect & Automation Engineer
+
+> Dedicated to engineering data-driven solutions for contact center efficiency. I build systems that transform manual operational headaches into automated, predictive intelligence.
 
 ---
-## ⚡ What I Build
-I architect the operational infrastructure that enterprise contact centers and B2B client operations run on. My work sits at the intersection of rigorous WFM science (Erlang C, interval forecasting, adherence modeling) and modern Python/SQL automation engineering — closing the gap between "we have the data" and "the system acts on it automatically."
 
-**Current focus:** Productizing 18 years of internal operations expertise into scalable, high-ticket B2B automation solutions for enterprise CX teams.
+## Technical Core
 
----
-## 🛠 Tech Stack & Tools
-| Layer | Technologies |
-|---|---|
-| **Languages** | Python 3.11 · SQL (PostgreSQL) · Erlang C · Bash |
-| **Data & Transforms** | Pandas · SQLAlchemy · SciPy · OpenPyXL |
-| **Dashboards & UI** | Streamlit · Power BI · Tableau |
-| **Automation & APIs** | Notion API v2 · Pydantic · SMTP · Webhooks (HubSpot / Slack / Teams) |
-| **WFM Domain** | Erlang C Modelling · Interval Forecasting · RTA · Adherence Analytics |
-| **Config & Infra** | YAML · Git · Cron / Task Scheduler · GitHub Actions |
-| **AI Integration** | Prompt-driven SOP systems · AI-assisted workflow routing |
+* **Workforce Management (WFM):** Erlang C modeling, interval-based forecasting, and shrinkage analysis.
+* **Data Engineering:** Python (Pandas/SQLAlchemy), SQL, and automated data pipeline orchestration.
+* **Operations Intelligence:** Real-time SLA monitoring, NLP-driven sentiment analysis, and churn prediction.
+* **Automation:** End-to-end B2B client onboarding pipelines and automated SOP provisioning.
 
 ---
-## 📂 Portfolio
-### 🔷 Pillar I — Internal Process Optimization
-> Systems engineered to eliminate manual ops overhead and enforce SLA compliance at scale.
 
-| Repository | What It Solves | Core Tech | Impact |
-|---|---|---|---|
-| [**WFM Forecasting Engine**](https://github.com/ThommyShelby79/wfm-forecasting-engine) | Manual interval forecasting producing 18–25% variance | Python · Erlang C · Pandas | Forecast variance ↓ to <8% · Schedule build time ↓ 89% |
-| [**RTA Command Center**](https://github.com/ThommyShelby79/rta-command-center) | 3–4 hr reporting lag · zero real-time SLA visibility | Streamlit · Python · SQL | Manual reporting ↓ 100% · Breach detection now predictive |
+## Portfolio Projects
+
+### [WFM Forecasting Calculator](https://www.google.com/search?q=https://github.com/ThommyShelby79/wfm-forecasting-calculator)
+
+Erlang C-powered demand forecasting that reduces schedule build time by 89% and maintains sub-8% forecast variance.
+
+### [RTA Command Center](https://www.google.com/search?q=https://github.com/ThommyShelby79/rta-command-center)
+
+A real-time Streamlit dashboard that delivers live SLA/adherence visibility, eliminating daily reporting lag and providing predictive breach alerts.
+
+### [B2B Onboarding Automator](https://www.google.com/search?q=https://github.com/ThommyShelby79/b2b-onboarding-automator)
+
+An intake-to-readiness pipeline that auto-generates staffing schedules and provisions Notion SOP workspaces for new clients in under 60 minutes.
+
+### [CX Sentiment & Churn Sentinel](https://www.google.com/search?q=https://github.com/ThommyShelby79/cx-sentiment-churn-sentinel)
+
+Predictive analytics engine using NLP and logistic regression to identify high-risk churn signals 48–72 hours before they escalate.
 
 ---
-### 🔶 Pillar II — External Client Automation Solutions
-> B2B-grade pipelines that turn client requirements into operational infrastructure — automatically.
 
-| Repository | What It Solves | Core Tech | Impact |
-|---|---|---|---|
-| [**B2B Onboarding Automator**](https://github.com/ThommyShelby79/b2b-onboarding-automator) | 14–21 day manual client onboarding bottleneck | Python · Erlang C · Notion API | Client TTV ↓ 93% · Day-1 staffing accuracy <10% variance |
-| [**CX Sentiment & Churn Sentinel**](https://github.com/ThommyShelby79/cx-sentiment-sentinel) | Reactive churn detection after client notice served | SQL · Python · Power BI | 30–60 day pre-churn window · Revenue risk 100% quantified |
+## Connect
+
+[LinkedIn]() · [Portfolio]() · [Email]()
 
 ---
-## 📊 Signature Metrics Across Portfolio
-```text
-Forecast Variance Reduction  ████████████████████  <8%  (from 18–25%)
-Manual Reporting Eliminated  ████████████████████  100%
-Client Time-to-Value         ████████████████████  ↓ 93%  (21 days → <1 day)
-SLA Achievement Improvement  ████████████████████  ↑ 17 pts
-Pre-Churn Detection Window   ████████████████████  +45 days avg
+
+*Building at the intersection of operational strategy and engineering.*
