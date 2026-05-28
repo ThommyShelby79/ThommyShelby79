@@ -1,79 +1,67 @@
-# 👋 Hatem Ismail Shalaby
-## RTA & WFM Automation Expert | Operations Process Automation
+<!-- ThommyShelby79/ThommyShelby79 — GitHub Profile README -->
 
-> 18+ years in contact center operations across TikTok LIVE, Vodafone UK, and Uber.
-> I don't just consult on operations — I build the tools that automate them.
+# Hatem [Last Name]
+### Senior Operations Architect · Automation Engineer · WFM Systems Designer
 
----
+> *18+ years translating contact center chaos into engineered precision —  
+> now building the automated systems that scale it.*
 
-## 🚀 Live Automation Tools
-
-| Tool | What It Does | Live Demo | Code |
-|------|-------------|-----------|------|
-| 📊 RTA Command Center | Real-time agent adherence monitoring, color-coded alerts, Excel export | [▶ Try It](https://rta-command-center---full-build-vhbangzr7thwfzdgpr7lyh.streamlit.app/) | [Code](https://github.com/ThommyShelby79/rta-command-center) |
-| 📞 WFM Forecasting Calculator | Erlang C staffing, shrinkage analysis, interval planning, FTE cost modeling | [▶ Try It](https://wfm-forecasting-calculator---full-build-hssrd2devzdmhqjjts8q3z.streamlit.app/) | [Code](https://github.com/ThommyShelby79/wfm-forecasting-calculator) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/[handle])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](https://[username].github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:[email])
 
 ---
 
-## 💼 What I've Built in the Real World
+## ⚡ What I Build
 
-**TikTok LIVE** *(Current)*
-- Built **Workflow Navigator** — automated SOP guidance tool that **doubled team productivity (TPD 20→40)**
-- Engineered real-time dashboards tracking escalation trends, SLA adherence, CSAT by agent/region
-- SQL-backed anomaly detection reduced repeat escalations by **15% (500+ cases/month)**
+I architect the operational infrastructure that enterprise contact centers and B2B
+client operations run on. My work sits at the intersection of rigorous WFM science
+(Erlang C, interval forecasting, adherence modeling) and modern Python/SQL
+automation engineering — closing the gap between "we have the data" and
+"the system acts on it automatically."
 
-**Vodafone UK** *(2020–2024)*
-- Built **Erlang C staffing models** predicting daily FTE with **<8% forecast variance**
-- Designed KPI dashboards saving **12 FTE-hours weekly**
-- Managed analytics for 70+ weekly cases across 19+ agent cohorts
-
-**Uber** *(2016–2020)*
-- Promoted to **Business Analysis Team** for advanced SQL analytics
-- Built SQL pipelines eliminating **8 hours/week** of manual reporting
-- Identified high-churn segments → driver activation **+25%**, churn **-18%**
-Metric                          Result
-──────────────────────────────────────────────
-Team Productivity (TikTok)   →  TPD doubled 20 → 40
-WFM Forecast Accuracy        →  <8% variance (Erlang C)
-Manual Reporting Reduction   →  65% eliminated
-Repeat Escalations (TikTok)  →  -15% (500+/month saved)
-FTE Analytics Savings        →  12 hours/week recovered
-Driver Activation (Uber)     →  +25% via SQL targeting
-Team Scale (Uber)            →  15 → 60+ agents, 90%+ CSAT maintained
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**WFM/RTA:** Erlang C · Real-Time Adherence · Capacity Planning · Shrinkage Analysis · Shift Optimization
-
-**Systems:** Zendesk · Salesforce · Intercom · SAP · Amadeus
+**Current focus:** Productizing 18 years of internal operations expertise into
+scalable, high-ticket B2B automation solutions for enterprise CX teams.
 
 ---
 
-## 🎯 What I Solve
-❌ Problem                              ✅ My Solution
-────────────────────────────────────────────────────────
-Manual RTA tracking (3hrs/day)      →  Automated dashboard (seconds)
-Complex Erlang C math               →  One-click WFM calculator
-Staffing guesswork                  →  Data-driven interval planning
-SOP inconsistency across agents     →  Workflow Navigator automation
-Repeat escalations                  →  SQL anomaly detection system
----
+## 🛠 Tech Stack & Tools
 
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-shalaby-7359611a2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://hatemismail2011shalaby.github.io/RTA-Operations-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hatemismail2011@gmail.com)
+| Layer | Technologies |
+|---|---|
+| **Languages** | Python 3.11 · SQL (PostgreSQL) · Erlang C · Bash |
+| **Data & Transforms** | Pandas · SQLAlchemy · SciPy · OpenPyXL |
+| **Dashboards & UI** | Streamlit · Power BI · Tableau |
+| **Automation & APIs** | Notion API v2 · Pydantic · SMTP · Webhooks (HubSpot / Slack / Teams) |
+| **WFM Domain** | Erlang C Modelling · Interval Forecasting · RTA · Adherence Analytics |
+| **Config & Infra** | YAML · Git · Cron / Task Scheduler · GitHub Actions |
+| **AI Integration** | Prompt-driven SOP systems · AI-assisted workflow routing |
 
 ---
 
-*⭐ If my tools helped your operations team, please star the repositories!*
+## 📂 Portfolio
+
+### 🔷 Pillar I — Internal Process Optimization
+
+> Systems engineered to eliminate manual ops overhead and enforce SLA compliance at scale.
+
+| Repository | What It Solves | Core Tech | Impact |
+|---|---|---|---|
+| [**WFM Forecasting Engine**](https://github.com/ThommyShelby79/wfm-forecasting-engine) | Manual interval forecasting producing 18–25% variance | Python · Erlang C · Pandas | Forecast variance ↓ to <8% · Schedule build time ↓ 89% |
+| [**RTA Command Center**](https://github.com/ThommyShelby79/rta-command-center) | 3–4 hr reporting lag · zero real-time SLA visibility | Streamlit · Python · SQL | Manual reporting ↓ 100% · Breach detection now predictive |
+
+---
+
+### 🔶 Pillar II — External Client Automation Solutions
+
+> B2B-grade pipelines that turn client requirements into operational infrastructure — automatically.
+
+| Repository | What It Solves | Core Tech | Impact |
+|---|---|---|---|
+| [**B2B Onboarding Automator**](https://github.com/ThommyShelby79/b2b-onboarding-automator) | 14–21 day manual client onboarding bottleneck | Python · Erlang C · Notion API | Client TTV ↓ 93% · Day-1 staffing accuracy <10% variance |
+| [**CX Sentiment & Churn Sentinel**](https://github.com/ThommyShelby79/cx-sentiment-sentinel) | Reactive churn detection after client notice served | SQL · Python · Power BI | 30–60 day pre-churn window · Revenue risk 100% quantified |
+| [**Workflow Navigator**](https://github.com/ThommyShelby79/workflow-navigator) | Static SOPs that agents bypass under pressure | Python · AI Routing · YAML | Dynamic, role-aware SOP delivery at point of need |
+
+---
+
+## 📊 Signature Metrics Across Portfolio
