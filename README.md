@@ -7,7 +7,7 @@
 > now building the automated systems that scale it.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/[handle])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](https://[username].github.io)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat](https://hatemismail2011shalaby.github.io/RTA-Operations-Portfolio/))]([https://[username].github.io]
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:[email])
 
 ---
@@ -65,3 +65,29 @@ scalable, high-ticket B2B automation solutions for enterprise CX teams.
 ---
 
 ## 📊 Signature Metrics Across Portfolio
+Forecast Variance Reduction  ████████████████████  <8%  (from 18–25%)
+Manual Reporting Eliminated  ████████████████████  100%
+Client Time-to-Value         ████████████████████  ↓ 93%  (21 days → <1 day)
+SLA Achievement Improvement  ████████████████████  ↑ 17 pts
+Pre-Churn Detection Window   ████████████████████  +45 days avg
+---
+
+## 🧠 Domain Depth
+Contact Center Operations ────────────────────────── 18 yrs
+Workforce Management (WFM) ───────────────────────── 18 yrs
+Erlang C & Queuing Theory ────────────────────────── 15 yrs
+Python Automation Engineering ────────────────────── 6 yrs
+SQL / Data Pipeline Architecture ─────────────────── 8 yrs
+B2B Client Solutions Architecture ────────────────── Active
+---
+
+## 📬 Engagement
+
+I'm selectively open to:
+- **Senior WFM / Operations Architecture roles** at SaaS or enterprise CX platforms
+- **B2B consulting engagements** requiring ops-to-automation translation
+- **Technical advisory** for contact center tooling products
+
+> *If your org is still running staffing models in spreadsheets, we should talk.*
+
+[![LinkedIn]([https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/hatem-shalaby-7359611a2/))]([https://linkedin.com/in/[handle]](https://www.linkedin.com/in/hatem-shalaby-7359611a2/))
