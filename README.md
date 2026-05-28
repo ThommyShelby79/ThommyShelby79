@@ -1,6 +1,6 @@
 <!-- ThommyShelby79/ThommyShelby79 — GitHub Profile README -->
 
-# Hatem [Last Name]
+# Hatem Shalaby
 ### Senior Operations Architect · Automation Engineer · WFM Systems Designer
 
 > *18+ years translating contact center chaos into engineered precision —  
