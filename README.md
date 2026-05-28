@@ -7,7 +7,7 @@
 > now building the automated systems that scale it.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/[handle])
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat](https://hatemismail2011shalaby.github.io/RTA-Operations-Portfolio/))]([https://[username].github.io]
+[![Portfolio]([https://[username].github.io])
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:[email])
 
 ---
